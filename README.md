@@ -48,4 +48,3 @@ Copyright © 2022 [Xolo](https://github.com/efenatuyo).<br />
 This project is [Apache](https://www.apache.org/licenses/LICENSE-2.0) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
