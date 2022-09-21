@@ -9,7 +9,7 @@ username = ("")    #  Your pastebin username
 password = ("")    #  Your pastebin password
 
 
-#  loging into pastebin
+#  logging into pastebin
 login_data = {
     'api_dev_key': key, 
     'api_user_name': username,
