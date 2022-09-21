@@ -7,7 +7,7 @@ import requests
 key = ("")    #  Your pastebin api_dev_key get it over here https://pastebin.com/doc_api#1
 username = ("")    #  Your pastebin username
 password = ("")    #  Your pastebin password
-
+content = ('')    #  anything you want to paste
 
 #  logging into pastebin
 login_data = {
