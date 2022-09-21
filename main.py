@@ -15,6 +15,11 @@ login_data = {
     'api_user_name': username,
     'api_user_password': password
              }
+
+
+
+
+#    uploads the content
 data = {
     'api_option': 'paste',
     'api_dev_key':key,
@@ -29,5 +34,9 @@ def upload():
     r = requests.post("https://pastebin.com/api/api_post.php", data=data)
     return r.text
 
+
+
+
+#  sends you the link
 link = upload()
 print(f"Paste URL: {link}")
